@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jp.ac.uryukyu.ie.e235729.WarriorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-27T14:43:15" hostname="shimojiyuutonoMacBook-Air.local" time="0.015">
+  <properties/>
+  <testcase name="attackTest()" classname="jp.ac.uryukyu.ie.e235729.WarriorTest" time="0.015"/>
+  <system-out><![CDATA[デモ勇者のHPは100。攻撃力は10です。
+スライムもどきのHPは100。攻撃力は10です。
+デモ勇者の攻撃！ウェポンスキルを発動！スライムもどきに15のダメージを与えた！！
+デモ勇者の攻撃！ウェポンスキルを発動！スライムもどきに15のダメージを与えた！！
+デモ勇者の攻撃！ウェポンスキルを発動！スライムもどきに15のダメージを与えた！！
+デモ勇者の攻撃！ウェポンスキルを発動！スライムもどきに15のダメージを与えた！！
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
